@@ -8,7 +8,7 @@ This dataset is a multi-feature and multi-modal dataset for Bangla clickbait det
 * **arXiv Link**: https://arxiv.org/abs/2310.11465
 
 ## Dataset
-* **Mendeley**: https://data.mendeley.com/datasets/3c6ztw5nft/1
+* **Mendeley**: https://data.mendeley.com/datasets/3c6ztw5nft/
 
 ## Citation
 ### MLA
