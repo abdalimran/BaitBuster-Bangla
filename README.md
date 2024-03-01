@@ -32,6 +32,8 @@ This dataset is a multi-feature and multi-modal dataset for Bangla clickbait det
 
 ## Dataset
 * **Mendeley**: https://data.mendeley.com/datasets/3c6ztw5nft/
+* **Kaggle**: https://www.kaggle.com/datasets/abdalimran/baitbuster-bangla
+* **Huggingface**: https://huggingface.co/datasets/abdalimran/BaitBuster-Bangla
 
 ## Citation
 ### MLA
